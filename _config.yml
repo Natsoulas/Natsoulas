@@ -3,8 +3,8 @@
 title: Nicholas Natsoulas
 description: Blue Origin | NASA | Cornell University
 
-baseurl: /Natsoulas.github.io #name of GitHub repository
-url: "#" #custom url to be used instead of GitHub repository
+baseurl: /Natsoulas #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 email: nrn22@cornell.edu
 
 
