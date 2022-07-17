@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Nicholas Natsoulas
+description: GNC Engineer | Blue Origin | NASA | Cornell University
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "nicholasnatsoulas.com" #custom url to be used instead of GitHub repository
+email: nrn22@cornell.edu
 
 
 highlighter: rouge
@@ -17,12 +17,13 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+#facebook: "#"
+#twitter: "#"
+linkedin: "www.linkedin.com/in/nicholasnatsoulas"
+github: "https://github.com/Natsoulas"
+youtube: "https://www.youtube.com/channel/UCk7PYrL-HfCdEI2XKp_EvXA"
+#researchgate: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
