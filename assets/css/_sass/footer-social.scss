@@ -8,8 +8,8 @@
   display: inline-block;
   position: relative;
   cursor: pointer;
-  width: 2.125rem;
-  height: 2.125rem;
+  width: 2*2.125rem;
+  height: 2*2.125rem;
   border: 0.125rem solid transparent;
   padding: 0;
   text-decoration: none;
@@ -17,7 +17,7 @@
   color: #fefefe;
   font-size: 1.5625rem;
   font-weight: normal;
-  line-height: 1.5em;
+  line-height: 2.2*1.5em;
   border-radius: 1.6875rem;
   transition: all 0.5s ease;
   margin-right: 0.25rem;
@@ -37,7 +37,7 @@
 .fa-orcid,
 .fa-researchgate,
 .fa-envelope {
-  font-size: 25px;
+  font-size: 50px;
 }
 
 .rounded-social-buttons .social-button.facebook {
