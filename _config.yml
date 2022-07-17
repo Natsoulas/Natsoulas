@@ -3,7 +3,7 @@
 title: Nicholas Natsoulas
 description: GNC Engineer | Blue Origin | NASA | Cornell University
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /Natsoulas.github.io #name of GitHub repository
 url: "nicholasnatsoulas.com" #custom url to be used instead of GitHub repository
 email: nrn22@cornell.edu
 
@@ -19,9 +19,9 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 #facebook: "#"
 #twitter: "#"
-linkedin: "www.linkedin.com/in/nicholasnatsoulas"
-github: "https://github.com/Natsoulas"
-youtube: "https://www.youtube.com/channel/UCk7PYrL-HfCdEI2XKp_EvXA"
+linkedin: "nicholasnatsoulas"
+github: "Natsoulas"
+youtube: "UCk7PYrL-HfCdEI2XKp_EvXA"
 #researchgate: "#"
 #orcid: "#"
 
