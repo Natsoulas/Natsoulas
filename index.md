@@ -3,12 +3,12 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: nicholasheadshot.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a rising Senior at Cornell University, pursuing a B.S. in Mechanical Engineering with a minor in Aerospace Engineering. I am currently interning at NASA Glenn Research Center as a Guidance, Navigation, and Controls Engineer where I work on Rapid Attitude Control System design in the COMPASS Lab. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+This Fall, I will be interning at Blue Origin working on Guidance, Navigation and Controls in their Advanced Development Program.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+My interests lie in Astrodynamic Simulations, Non-linear Controls, Autonomous Controls, and Optimization.
