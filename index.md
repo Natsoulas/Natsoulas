@@ -7,7 +7,9 @@ profile:
 published: true
 ---
 
-I am a rising Senior at Cornell University, pursuing a B.S. in Mechanical Engineering with a minor in Aerospace Engineering. I am currently interning at NASA Glenn Research Center as a Guidance, Navigation, and Controls Engineer where I work on Rapid Attitude Control System design in the [Compass Lab](https://www1.grc.nasa.gov/facilities/compass-lab/). 
+I am a rising Senior at Cornell University, pursuing a B.S. in Mechanical Engineering with a minor in Aerospace Engineering. 
+
+I am currently interning at NASA Glenn Research Center as a Guidance, Navigation, and Controls Engineer where I work on Rapid Attitude Control System design in the [Compass Lab](https://www1.grc.nasa.gov/facilities/compass-lab/). 
 
 This Fall, I will be interning at Blue Origin working on Guidance, Navigation and Controls in their Advanced Development Program.
 
