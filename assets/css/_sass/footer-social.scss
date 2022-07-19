@@ -35,6 +35,7 @@
 .fa-linkedin,
 .fa-github,
 .fa-orcid,
+.fa-youtube,
 .fa-researchgate,
 .fa-envelope {
   font-size: 50px;
@@ -99,6 +100,17 @@
   background: #fefefe;
   border-color: #a6ce3b;
 }
+
+.rounded-social-buttons .social-button.youtube {
+  background: #bb0000;
+}
+
+.rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
+  color: #bb0000;
+  background: #fefefe;
+  border-color: #bb0000;
+}
+
 
 .rounded-social-buttons .social-button.researchgate {
   background: #5dd1b0;

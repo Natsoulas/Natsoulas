@@ -44,6 +44,15 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.youtube -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'YouTube' }}"
+class="social-button youtube" 
+href="https://www.youtube.com/{{ site.youtube }}" itemprop="sameAs" 
+target="_blank">
+<i class="fab fa-youtube"></i>
+</a>
+{%- endif -%}
+
 {%- if site.twitter -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
 class="social-button twitter"
